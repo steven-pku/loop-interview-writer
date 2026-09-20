@@ -1,3 +1,27 @@
+# Repair Candidate — loop-interview-writer
+
+2026-09-20. **HOLD — static repairs prepared; new behavior and installation validation pending.**
+
+Candidate version: `0.2.3`. Repair base public commit: `63f69fea7e726eb2c23ee0c7befc0666499264a1`.
+
+Current SKILL.md SHA-256: `3feea6e4ed538b97f9455efebcd029b203b611b99ccb5d4d4718216fff009967`.
+Current shared ledger-schema v2 SHA-256: `2b6e75db45b2fd1cae4ab5f3f4408d5faf8ad1b533c64bd7b4709f57f1cc54d6`.
+
+The repair aligns quantitative, specific qualitative and honest-failure outcomes,
+source wording, evidence support, verification state and personal/team boundaries.
+It removes unknown-to-deception inference and adds bounded clarification/revision,
+input-as-data and scoped privacy/action rules. Both copies of the shared ledger
+must be byte-identical. New candidate behavior is not established by static edits.
+Installation, actual host discovery, model regression and release settings remain
+open. No current READY judgment is claimed.
+
+## Historical review record — preceding candidate only
+
+The following is the earlier review record at the repair base, retained to show
+what prompted the changes. Its source hashes, line numbers, unchanged-export
+statements and defect descriptions refer to that earlier tree, not the repaired
+runtime above. It is not the current scoring or execution contract.
+
 # Public Review Candidate — loop-interview-writer
 
 2026-09-20.
