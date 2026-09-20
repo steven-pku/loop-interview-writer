@@ -91,7 +91,7 @@ Draft in this order:
 2. High-frequency answers by 题型， drawing from the story bank.
 3. 反问清单 （3-5 questions matched to the round: 业务面问业务， HR 面问机制）.
 
-Duration control: estimate spoken length from character count (`references/interview-rubric.md` for the rate and per-length budgets).
+Duration control: count the actual spoken-answer text before reporting a character count; exclude headings, QA and follow-up notes, and state whether punctuation is included. Use a permitted local read-only counter when available, otherwise disclose that the count was not measured instead of inventing a number. Derive the estimated duration from that same count and the stated rate (`references/interview-rubric.md`); it is not an actual rehearsal timing.
 
 ### 5. QA Loop
 
