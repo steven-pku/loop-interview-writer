@@ -4,7 +4,7 @@
 
 This repository contains instruction and template text, with no runtime runner or executable script. This does not make the host agent harmless or prove that the written safeguards are effective. The host may use tools, save files, send requests, or retain conversation data according to its own configuration and permissions; model providers may also retain inputs.
 
-The candidate is HOLD for formal release. The repaired runtime now states data-as-input, minimal-data, scoped-action and job-relevant evidence boundaries. These are instructions, not demonstrated enforcement. Prompt injection, inappropriate hiring inferences and unauthorized disclosure still require behavior tests; no lie-detection or background-check capability is claimed.
+The 2026-09-21 review accepts the runtime within the limited historical-output scope described in REVIEW.md; it does not certify a broad security boundary or claim publication. Synthetic r1 outputs support the visible-response handling of embedded instructions, privacy scope, and neutral hiring questions. The latest r2 snapshot changes only counting guidance relative to r1. Read-only/no-network host restrictions contributed to containment, and native tool logs are absent, so these records do not prove Skill-only defenses, the absence of unseen tool actions, or hiring fairness. No lie-detection or background-check capability is claimed.
 
 ## Review inputs
 
